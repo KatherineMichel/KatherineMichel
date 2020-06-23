@@ -1,6 +1,6 @@
 # Katherine Michel's Public Profile
 
-:telescope: I’m currently a [Pinax](https://github.com/pinax/) Release Manager and Developer.
+:telescope: I currently work for [Eldarion](https://eldarion.com/team/) as a [Pinax](https://github.com/pinax/) Release Manager and Developer.
 
 :briefcase: To see my work, check out my [portfolio](https://github.com/KatherineMichel/portfolio).
 
@@ -8,9 +8,9 @@
 
 :dancers: I’d like to collaborate on side projects that can generate income.
 
-:speech_balloon: Ask me about the work I do as a DEFNA Board Member.
+:speech_balloon: Ask me about the work I do as a [DEFNA Board Member](https://www.defna.org/about/).
 
-:love_letter: How to reach me: kthrnmichel@gmail.com or [Twitter](https://twitter.com/KatiMichel)
+:love_letter: You can reach me at kthrnmichel@gmail.com or on [Twitter](https://twitter.com/KatiMichel)
 
 :smile: Pronouns: She/Her
 
