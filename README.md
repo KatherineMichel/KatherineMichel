@@ -4,7 +4,7 @@
 
 :dancers: I’d like to collaborate on side projects that can generate income.
 
-:briefcase: To see my work, check out my [portfolio](https://github.com/KatherineMichel/portfolio).
+:briefcase: To see my work, check out my [Portfolio](https://github.com/KatherineMichel/portfolio).
 
 :seedling: To see what I'm learning, check out my [Digital Commonplace](https://github.com/KatherineMichel/digital-commonplace).
 
