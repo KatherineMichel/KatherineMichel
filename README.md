@@ -14,4 +14,4 @@
 
 :smile: Pronouns: She/Her
 
-:zap: Fun fact: At one time, I worked for the Royal Family of England.
+:zap: Fun fact: At one time, I worked for the [Royal Family](https://www.royal.uk/royal-family) of England.
