@@ -10,7 +10,7 @@
 
 :speech_balloon: Ask me about the work I do as a [DEFNA Board Member](https://www.defna.org/about/).
 
-:love_letter: You can reach me at kthrnmichel@gmail.com or on [Twitter](https://twitter.com/KatiMichel)
+:love_letter: You can reach me at kthrnmichel@gmail.com or on Twitter [@KatiMichel](https://twitter.com/KatiMichel)
 
 :smile: Pronouns: She/Her
 
