@@ -1,9 +1,6 @@
 # Katherine Michel's Public Profile
 
 * :telescope: I am a web developer, open source maintainer, and technical writer. 
-<!--
-* :hammer: I have recently worked for The Wharton School as a Technical Writer and Advisor, and for [Eldarion](https://eldarion.com/team/) as a [Pinax](https://github.com/pinax/) Release Manager and Developer.   
--->
 * :briefcase: To see my work, check out my [Portfolio](https://github.com/KatherineMichel/portfolio).
 * :dancers: I’d like to collaborate on side projects that can generate income.
 * :seedling: To see what I'm learning, check out my [Digital Commonplace](https://github.com/KatherineMichel/digital-commonplace).
