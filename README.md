@@ -1,6 +1,6 @@
 # Katherine Michel's Public Profile
 
-* :telescope: Software Engineer at [Octopus Energy US](https://octopusenergy.com/) 
+* :telescope: Software Engineer at [JPMorgan Chase](https://www.jpmorganchase.com/) 
 * :briefcase: To see my work, check out my [LinkedIn Profile](https://www.linkedin.com/in/katherinemichel/) or [Portfolio](https://github.com/KatherineMichel/portfolio).
 * :seedling: To see what I'm learning, check out my [Digital Commonplace](https://github.com/KatherineMichel/digital-commonplace).
 * :speech_balloon: Ask me about the work I do as a [DEFNA Board Member](https://www.defna.org/about/), [PSF Contributing Member](https://www.python.org/psf/membership/), or [DSF Individual Member](https://www.djangoproject.com/foundation/individual-members/).
